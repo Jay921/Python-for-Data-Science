@@ -7,3 +7,6 @@ The dependancies of this project are:
 tweepy,
 textblob, and
 csv
+
+
+(Code taken and edited from Siraj Raval)
