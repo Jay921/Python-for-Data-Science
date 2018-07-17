@@ -4,6 +4,6 @@ Sentiment analysis is done on tweets searched based on a specified topic. (In th
 The included tweetSentimentAnalysis.py file outputs a csv (tweetSentiments.csv) file including the tweet texts and their polarity (Negative or Positive)
 
 The dependancies of this project are:
-tweepy
-textblob
+tweepy,
+textblob, and
 csv
